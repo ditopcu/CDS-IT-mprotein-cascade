@@ -1,0 +1,28 @@
+# Cascade M-Protein CDS — Dependencies
+# Tested with Python 3.12 on Google Colaboratory
+
+# Core ML
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.6
+xgboost>=2.0
+optuna>=3.5
+shap>=0.51
+
+# Deep learning
+tensorflow>=2.15
+pytorch-tabnet>=4.1
+
+# Time series
+sktime>=0.30
+
+# Statistics & calibration
+scipy>=1.12
+mapie>=0.9
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Utilities
+jupytext>=1.16
