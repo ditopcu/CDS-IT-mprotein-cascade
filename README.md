@@ -101,7 +101,7 @@ To use your own Sebia Capillarys 2 data, see the **[Data Preparation Guide](docs
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0.
 
 ## Acknowledgments
 
